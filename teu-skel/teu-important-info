@@ -1,0 +1,9 @@
+In this folder is the Shipping Container lab, in which the Teu class is designed to act as a shipping container ADT, with the Electronics and FastFashionPackage calsses being the two versions of shippable ADT. 
+
+The Teu class determines whether or not an Electronic or FastFashionPackage can be added to the container based on the volume being added via item in relation to the total and maximum tonnage of the container.
+
+IMPORTANT NOTE:
+main.cpp was NOT added to the repository, as it contained sensitive personal information in regards to my professor, and I was uncomfortable putting that onto GitHub. The code within this file was skeleton code given by my professor, and it simply verified the validity of my solution.
+
+The code in the following file was written by me:
+teu.hpp (*Note* The base class "Shippable" was given, the rest of the code was my doing.)
