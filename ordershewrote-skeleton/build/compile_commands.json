@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/build",
+  "command": "/usr/bin/g++  -I/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/include -g -o CMakeFiles/ordershewrote.dir/main.cpp.o -c /home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/main.cpp",
+  "file": "/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/main.cpp",
+  "output": "CMakeFiles/ordershewrote.dir/main.cpp.o"
+},
+{
+  "directory": "/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/build",
+  "command": "/usr/bin/g++  -I/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/include -g -o CMakeFiles/ordershewrote.dir/order.cpp.o -c /home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/order.cpp",
+  "file": "/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/order.cpp",
+  "output": "CMakeFiles/ordershewrote.dir/order.cpp.o"
+},
+{
+  "directory": "/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/build",
+  "command": "/usr/bin/g++  -I/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/include -g -o CMakeFiles/ordershewrote.dir/item.cpp.o -c /home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/item.cpp",
+  "file": "/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/item.cpp",
+  "output": "CMakeFiles/ordershewrote.dir/item.cpp.o"
+}
+]

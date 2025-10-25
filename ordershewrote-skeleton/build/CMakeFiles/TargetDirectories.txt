@@ -1,0 +1,3 @@
+/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/build/CMakeFiles/ordershewrote.dir
+/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/build/CMakeFiles/edit_cache.dir
+/home/luke-falanga/Desktop/DataStructures/ordershewrote-skeleton/build/CMakeFiles/rebuild_cache.dir
