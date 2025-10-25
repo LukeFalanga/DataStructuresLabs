@@ -1,0 +1,7 @@
+This folder contains the contents of the "palanydrome" lab. The word palanydrome is a play on "palindrome," but instead of being exclusive to numbers and characters, the palanydrome is available to all types. The goal of the lab was to create a function to check if a vector input was a palanydrome, and was accomplished by use of recursion and a parameter of vector<T>, with T being a placeholder for any type.
+
+The code in the following file was written by me:
+ispalanydrome.hpp
+
+The code in the following file was given by the professor:
+main.cpp
