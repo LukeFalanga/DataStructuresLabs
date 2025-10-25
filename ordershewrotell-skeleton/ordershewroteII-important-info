@@ -1,0 +1,12 @@
+Included in this folder is part two of the Order She Wrote lab. In this variation, a linked-list structure is used to track the FlexibleOrder ADT. 
+
+All of the code written in the following files was done by me:
+order.cpp
+order.hpp
+linkedlist.hpp
+cancouriertake.hpp
+
+The code written in the following files was given by my professor:
+item.cpp
+main.cpp
+item.hpp
