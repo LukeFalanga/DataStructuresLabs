@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ordershewrote.dir/main.cpp.o CMakeFiles/ordershewrote.dir/order.cpp.o CMakeFiles/ordershewrote.dir/item.cpp.o -o ordershewrote
