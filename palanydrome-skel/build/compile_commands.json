@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/luke-falanga/Desktop/DataStructures/palanydrome-skel/build",
+  "command": "/usr/bin/g++  -I/home/luke-falanga/Desktop/DataStructures/palanydrome-skel/include -g -o CMakeFiles/palanydrome.dir/main.cpp.o -c /home/luke-falanga/Desktop/DataStructures/palanydrome-skel/main.cpp",
+  "file": "/home/luke-falanga/Desktop/DataStructures/palanydrome-skel/main.cpp",
+  "output": "CMakeFiles/palanydrome.dir/main.cpp.o"
+}
+]

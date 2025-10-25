@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/palanydrome.dir/main.cpp.o -o palanydrome
