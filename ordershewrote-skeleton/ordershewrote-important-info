@@ -1,0 +1,11 @@
+Included in this folder is part one of the Order She Wrote lab. In this variation, a dynamically allocated array was used to store the items in the Flexible Order ADT.
+
+The code in the following files was written by me:
+order.cpp
+cancouriertake.hpp
+order.hpp
+
+The code in the following files was skeleton code given by the professor:
+main.cpp
+item.cpp
+item.hpp
