@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/luke-falanga/Desktop/DataStructures/teu-skel/build",
+  "command": "/usr/bin/g++  -I/home/luke-falanga/Desktop/DataStructures/teu-skel/include -g -std=gnu++2a -o CMakeFiles/teu.dir/main.cpp.o -c /home/luke-falanga/Desktop/DataStructures/teu-skel/main.cpp",
+  "file": "/home/luke-falanga/Desktop/DataStructures/teu-skel/main.cpp",
+  "output": "CMakeFiles/teu.dir/main.cpp.o"
+}
+]

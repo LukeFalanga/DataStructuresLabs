@@ -1,0 +1,3 @@
+/home/luke-falanga/Desktop/DataStructures/teu-skel/build/CMakeFiles/teu.dir
+/home/luke-falanga/Desktop/DataStructures/teu-skel/build/CMakeFiles/edit_cache.dir
+/home/luke-falanga/Desktop/DataStructures/teu-skel/build/CMakeFiles/rebuild_cache.dir
